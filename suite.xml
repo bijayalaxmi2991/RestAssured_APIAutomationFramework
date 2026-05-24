@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="API Test Suit">
+    <test thread-count="1" preserve-order="true" name="API Test">
+        <classes>
+            <class name="com.api.tests.LoginAPITest3">
+            </class>
+            <class name="com.api.tests.ForgotPasswordAPITest">
+            </class>
+            <class name="com.api.tests.GetProfileAPITest">
+            </class>
+            <class name="com.api.tests.SignUpAPITest">
+            </class>
+            <class name="com.api.tests.UpdateProfileAPITest">
+            </class>
+        </classes>
+    </test>
+</suite>
