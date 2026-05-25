@@ -3,11 +3,11 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>org.example</groupId>
-    <artifactId>APIAutomationFramework_RestAssured</artifactId>
+    <artifactId>2_APIAutomationFramework_RestAssured</artifactId>
     <version>1.0-SNAPSHOT</version>
     <packaging>jar</packaging>
 
-    <name>APIAutomationFramework_RestAssured</name>
+    <name>2_APIAutomationFramework_RestAssured</name>
     <url>http://maven.apache.org</url>
 
     <properties>
